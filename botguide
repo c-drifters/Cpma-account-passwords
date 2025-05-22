@@ -1,0 +1,8 @@
+BOT GUIDE (DYNO):
+
+Warn a user --- ?warn @{username/ID} {reason}
+Ban a user --- ?ban @{username/ID} {reason}
+Mute a user --- ?mute @{username/ID} {duration} {reason}
+Add a note --- ?note @{username/ID} {message / content}
+
+
