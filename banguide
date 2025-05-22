@@ -1,0 +1,17 @@
+Ban comand:
+?ban {username / ID} {reason}
+
+Reasons to ban a user:
+repeated violation of the rules
+n word / bypass
+nazi words
+
+Profile contents:
+Username - bannable
+Nicknames - bannable
+Profilepictures - bannable
+Pronouns - not bannable
+Banners - not bannable 
+Bio - not bannable
+
+... however you can ban users for their banner / bio / pronouns if they contain extremely controversial topics. 
