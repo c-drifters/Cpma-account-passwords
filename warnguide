@@ -1,0 +1,12 @@
+Warn command:
+?warn {@username / ID } {reason}
+
+You can warn users for every rule violation. 
+warn reasons:
+
+f-word bypass
+general bad word bypass
+channal missusage / off topic
+promoting a blacklisted server
+
+...if you are not sure if you should warn a user, aska other mod, or a Senior Moderator
